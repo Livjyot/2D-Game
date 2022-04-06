@@ -1,6 +1,6 @@
 ## Introduction
  
-This is a 2D Game named Throught the Hoop. In this game, the player is a bouncing ball who jumps through the hoops without hitting the obstacles. The ball will try to jump in through from above to get 1 point and jump in through from below to get 2 points. 
+Through the Hoop is a 2D Game build on Unity platform. In this game, the player is a bouncing ball who jumps through the hoops without hitting the obstacles. The ball will try to jump in through from above to get 1 point and jump in through from below to get 2 points. 
 
 Game is endless and as it progress it becomes harder and harder. Your main goal is to score as much as you can. Also, we will be collecting the stars during the gameplay to unlock balls of different colors and some more interesting shapes.
 
